@@ -1,0 +1,2 @@
+# practicatec
+aprendiendo git
